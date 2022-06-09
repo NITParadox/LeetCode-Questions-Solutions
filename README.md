@@ -2,4 +2,4 @@
 
 ### LeatCode Solutions
 
-[link to 1]()
+[link to 1](/Q-0001.md)
