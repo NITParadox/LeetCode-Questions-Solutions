@@ -1,7 +1,8 @@
 # Question: [1. Two Sum](https://leetcode.com/problems/two-sum/)
-<br>
+  
 
-## Approch
+
+## Approch: 
 
 ## JAVA code:
 <br>
