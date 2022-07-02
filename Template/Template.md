@@ -1,13 +1,12 @@
-# Question: [1. Two Sum](https://leetcode.com/problems/two-sum/)
-  
+# Question: []()
 
-
-## Approch: 
+## Approch:
 
 ## JAVA code:
-<br>
 
+```
     class Solution {
         write the java code function hear
 
     }
+```
