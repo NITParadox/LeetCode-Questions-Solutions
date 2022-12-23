@@ -1,5 +1,6 @@
-# LeatCode_Questions_Solution
+# WELCOME to DSA WORLD
 
-### LeatCode Solutions
+- <a href="https://github.com/NITParadox/LeetCode-Questions-Solutions/tree/main/Arrays/">Array</a>
+- <a href="https://github.com/NITParadox/LeetCode-Questions-Solutions/tree/main/Searching/">Searching</a>
 
-[link to 1](/Q-0001.md)
+- <a href="https://github.com/NITParadox/LeetCode-Questions-Solutions/tree/main/Solutions/">Leetcode Solutions</a>
