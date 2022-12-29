@@ -16,3 +16,5 @@
 # Wanted to add new `Solutions` to the Repository?
 
 Read the [Solutions/Contribution.md](/Solutions/CONTRIBUTION.md) file.
+
+OR You can add problems to the coresponding topic folder by conntecting them.
